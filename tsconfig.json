@@ -12,6 +12,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
-  ]
+    "expo-env.d.ts",
+    "nativewind-env.d.ts"
+, "(root)/(tabs)/profile.jsx", "(root)/(tabs)/adminLive.jsx", "(root)/(tabs)/qrScanner.jsx", "services/userService.js", "services/userSe", "lib/AuthContext.jsx"  ]
 }
